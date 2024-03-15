@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cnamnotes",
+    "sha256_cert_fingerprints":
+    ["6C:C9:D3:83:D8:0E:2A:91:BA:62:A5:C7:6E:9D:79:91:5D:EB:F7:9F:0E:44:95:0E:3D:14:75:D5:47:4A:29:18"]
+  }
+}]
